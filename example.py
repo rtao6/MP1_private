@@ -1,4 +1,3 @@
-from contextlib import suppress
 import metapy
 
 def tokens_lowercase(doc):
